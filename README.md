@@ -1,6 +1,3 @@
-# Imagenes y productos de Frontend Mentor
--(https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6)
-
 # Proyecto con React js + Firebase & TailwindCSS
 
 Proyecto final para el curso de React Js en Coderhouse
@@ -20,4 +17,6 @@ $ npm run dev
 ![alt text](/src/assets/images/readme/mobile.jpg)
 
 
+# Imagenes y productos de Frontend Mentor
 
+-(https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6)
